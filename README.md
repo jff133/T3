@@ -13,6 +13,10 @@
 9.	Пользователь видит страницу с подтверждением оплаты
    <img width="786" height="377" alt="image" src="https://github.com/user-attachments/assets/a0ed3f25-5954-424f-9c45-6c60d9c0651a" />
 
+ВИЗУАЛИЗАЦИЯ 
+<img width="1287" height="895" alt="image" src="https://github.com/user-attachments/assets/2fb6ba5e-a667-406f-a313-d7e92799a406" />
+
+
 
 # Вызовы API:
 ### 1.	Request:
