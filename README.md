@@ -15,7 +15,7 @@
 
 
 
-#ВИЗУАЛИЗАЦИЯ 
+# ВИЗУАЛИЗАЦИЯ 
 
 
 <img width="1287" height="895" alt="image" src="https://github.com/user-attachments/assets/2fb6ba5e-a667-406f-a313-d7e92799a406" />
